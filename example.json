@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "彩",
+        "description": "中華 ",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.60822,
+          35.685663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "fūro",
+        "description": "ワイン ",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.608216,
+          35.685574
+        ]
+      }
+    }
+  ]
+}
